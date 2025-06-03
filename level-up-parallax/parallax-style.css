@@ -29,15 +29,15 @@ body {
 
 /* 🧠 Step 2: Add background images for each parallax section */
 .hero {
-  background-image: url('assets/image1.jpg');
+  background-image: url('../assets/image1.jpg');
 }
 
 .quiet {
-  background-image: url('assets/image2.jpg');
+  background-image: url('../assets/image2.jpg');
 }
 
 .home {
-  background-image: url('assets/image3.jpg');
+  background-image: url('../assets/image3.jpg');
 }
 
 /* ✨ Optional Styling: Text overlay styles to improve readability */
